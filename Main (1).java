@@ -3,6 +3,6 @@ class Main{
                 System.out.println("shine");
         }
         public static void summer(int temp) {
-                
+                //please finish
         }
 }
